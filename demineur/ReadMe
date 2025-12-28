@@ -16,7 +16,7 @@ Le programme est compilé.
 ======================================================EXECUTION DU PROGRAMME======================================================
 
 Il y a plusieurs modes d'execution du programme. Pour plus d'informations, entrez "./TP10 --help".
-Le mode de base est "./TP10"
+Le mode de base est "./demineur.exe"
 
 =============================================================DOXYGENE=============================================================
 
