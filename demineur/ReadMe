@@ -1,0 +1,27 @@
+Fichier ReadMe de TP10
+
+=====================================================COMPILATION DU PROGRAMME=====================================================
+
+Pour executer le programme il faut d'abord le compiler.
+Pour ce faire:
+1. Ouvrez un terminal avec CTRL+ALT+T. 
+2. Entrez la commande:
+    "cd [Repertoire du fichier]".
+
+3. Entrez la commande:
+    "make"
+
+Le programme est compilé.
+
+======================================================EXECUTION DU PROGRAMME======================================================
+
+Il y a plusieurs modes d'execution du programme. Pour plus d'informations, entrez "./TP10 --help".
+Le mode de base est "./TP10"
+
+=============================================================DOXYGENE=============================================================
+
+Pour génerer le doxygene, procéder de la manière suivante:
+1. Dans le même répertoire que précedent, entrez la commande "make doc"
+2. Entrez la commande "cd doc/latex/"
+3. Entrez la commande "make"
+4. Le doxygene est crée ! Pour l'ouvrir entrez la commande "evince refman.pdf"
