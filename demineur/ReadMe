@@ -1,5 +1,6 @@
 Fichier ReadMe de TP10
 
+Sur Linux:
 =====================================================COMPILATION DU PROGRAMME=====================================================
 
 Pour executer le programme il faut d'abord le compiler.
@@ -25,3 +26,6 @@ Pour génerer le doxygene, procéder de la manière suivante:
 2. Entrez la commande "cd doc/latex/"
 3. Entrez la commande "make"
 4. Le doxygene est crée ! Pour l'ouvrir entrez la commande "evince refman.pdf"
+
+Sur Windows:
+Utiliser MSYS2
